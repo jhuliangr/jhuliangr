@@ -1,6 +1,6 @@
 # 🕶️ About Me:
 
-🔭 I’m currently working on Front-End development development at MediQuo
+🔭 I’m currently working as a Front-End developer at MediQuo
 
 ## 🌐 Socials:
 
